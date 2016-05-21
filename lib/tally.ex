@@ -1,0 +1,2 @@
+defmodule Tally do
+end
