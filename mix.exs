@@ -28,11 +28,11 @@ defmodule Tally.Mixfile do
 
   defp package do
     [
-     name: :tally,
-     files: ["lib", "priv", "mix.exs", "README*", "readme*", "LICENSE*", "license*"],
-     maintainers: ["Mohamed Boudra"],
-     licenses: ["MIT"],
-     links: %{"GitHub" => "https://github.com/boudra/tally"}
-   ]
+      name: :tally,
+      files: ["lib", "priv", "mix.exs", "README*", "readme*", "LICENSE*", "license*"],
+      maintainers: ["Mohamed Boudra"],
+      licenses: ["MIT"],
+      links: %{"GitHub" => "https://github.com/boudra/tally"}
+    ]
   end
 end
